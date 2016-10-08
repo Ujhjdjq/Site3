@@ -1,0 +1,24 @@
+.navbar-brand{
+	padding-right: 150px;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+.navbar-nav{
+	font-size: 18px;
+	text-transform: uppercase;
+}
+.menu{
+	border: 0;
+	box-shadow: 0 0 10px rgba(0, 0, 0, .19);
+	padding: 20px 0;
+}
+.product
+{
+	width: 200px;
+	height: 300px;
+	background-color: #dddddd;
+	display: inline;
+}
+#footer {
+	clear: both;
+}
