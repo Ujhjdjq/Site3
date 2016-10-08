@@ -7,6 +7,7 @@ $res=$pdo->prepare($sel);
 $res->execute(array($pid));
 $row=$res->fetch();
 echo '<p>Цена товара:'.$row['price'].'</p>';
+echo '<p>Цена товара:'.$row['price'].'</p>';
 
 /*
 'select * from products where id='.pid
